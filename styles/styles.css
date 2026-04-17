@@ -1,3 +1,11 @@
+@media (max-width: 600px) {
+  .presentation{
+    width: 50%;
+    color: #ffffff;
+    font-size: 40px;
+  }
+}
+
 * {box-sizing:border-box}
 
 body {
@@ -34,9 +42,7 @@ p{
 
 .presentation{
   width: 50%;
-  margin: 0 auto 0 auto;
   color: #ffffff;
-
 
 }
 
