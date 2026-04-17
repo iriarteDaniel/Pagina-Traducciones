@@ -1,16 +1,17 @@
 @media (max-width: 600px) {
   .presentation{
-    width: 50%;
-    color: #ffffff;
     font-size: 40px;
   }
 }
 
-* {box-sizing:border-box}
+* {
+  box-sizing:border-box;
+  color: #ffffff;
+}
 
 body {
   margin: 0 0 0 0;
-  background-color: #808080;
+  background-color: #6d6d6d;
 
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 30px;
@@ -46,13 +47,18 @@ p{
 
 }
 
-.title{
-    margin: 0 0 0 0;
+.content{
+  width: 80%;
+  background-color: #555555;
+  border-radius: 25px;
+  margin: auto;
+  padding: 20px;
 }
+
 
 .contact-container{
     width: 100vw;
-    height: 50vh;
+    height: 40vh;
     display: flex;
     justify-content: center;
 
