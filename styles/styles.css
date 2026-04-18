@@ -17,8 +17,8 @@
 
 body {
   margin: 0 0 0 0;
-  background: #0BDA51;
-  background: linear-gradient(0deg, rgba(11, 218, 81, 1) 0%, rgba(128, 255, 150, 1) 100%);
+  background: #F2E9E4;
+  background: linear-gradient(0deg, rgba(242, 233, 228, 1) 0%, rgba(201, 173, 167, 1) 50%, rgba(154, 140, 152, 1) 100%);
 }
 
 .container {
