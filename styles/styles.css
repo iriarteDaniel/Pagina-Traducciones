@@ -157,3 +157,9 @@ body {
   display: flex;
 
 }
+
+.credits{
+  color: hsl(0, 0%, 60%);
+  text-align: right ;
+  margin: 0 100px 0 0;
+}
